@@ -87,7 +87,7 @@ a:hover {
 
 .copyright {
   color: #EAF6F6;
-  font-size: 0.75rem;
+  font-size: 0.91rem;
   padding: 20px 0;
 }
 
@@ -148,6 +148,9 @@ a:hover {
   text-decoration: none;
 }
 
+.footer-link{
+    font-size: 1.25rem;
+}
 
 
 
@@ -220,7 +223,7 @@ ul li span {
     text-align: center;
   line-height: 40px;
   display: table-cell;
-  color: #fff;
+  color: black;
   font-size: 15px;
   text-align: center;
 }
