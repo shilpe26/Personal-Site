@@ -216,7 +216,8 @@ ul li span {
   background-color: grey;
   min-height: 40px;
   height: 100%;
-  width: 75px;
+  width: 150px;
+    text-align: center;
   line-height: 40px;
   display: table-cell;
   color: #fff;
